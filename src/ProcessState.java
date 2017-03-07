@@ -1,0 +1,6 @@
+
+public enum ProcessState {
+
+	 READY, FINISHED, BLOCKED, SUSPENDED_READY,
+	 SUSPENDED_BLOCKED;
+}
